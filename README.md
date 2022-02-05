@@ -12,7 +12,7 @@ Striving to improve my skills on Front-End Development, Networking and Pentestin
 
 ### ◼️ Wanna Find me? 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/subramani-p-958b121b6/)](https://www.linkedin.com/in/subramani-p-958b121b6/)    👈🏻
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hackie18)](https://www.linkedin.com/in/hackie18)    👈🏻
 
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/iassubramani)](https://www.hackerrank.com/iassubramani)   👈🏻
 
