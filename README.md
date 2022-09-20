@@ -8,7 +8,7 @@ I'm always trying to develop myself and learn something else new🧐. I lose my 
 
 ### ◼️ What I'm Focussing right now 👦🏻🔴💻
 
-Striving to improve my skills on Front-End Development, Networking and Pentesting😉.
+Striving to improve my skills on Front-End Development, Networking, Pentesting and Machine Learning😉.
 
 ### ◼️ Wanna Find me? 🌎
 
