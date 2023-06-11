@@ -1,8 +1,8 @@
 ### ◼️ Hey, I'm Subramani !  ✌️
 
-I'm currently pursuing my Bachelor's Degree in Artificial Intelligence and Machine Learning🧠. Although an interesting and passionate student in Cybersecurity and Pentesting🧑‍💻. I'm based in Chidambaram, India🛬.
+I completed my Bachelor's Degree in Artificial Intelligence and Machine Learning🧠. Although an interesting and passionate student in Cybersecurity and Pentesting🧑‍💻. I'm currently based in Chennai, India🛬.
 
-Currently am also working as Artificial Intelligence and Machine Learning Analyst in SAG Corps and Technologies, Chennai 🏢.
+Currently am also working as Java Developer in Azentio Pvt Ltd., Chennai 🏢.
 
 I'm always trying to develop myself and learn something else new🧐. I lose my track of time management when I hit hard the Gym💪🏻 and wandering out by hearing songs🎧.
 
